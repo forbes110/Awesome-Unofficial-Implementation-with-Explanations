@@ -29,15 +29,8 @@ Each folder should contain:
 - `summary.md`: A brief description of the paper, what the challenge is, and the community's progress.
 - `implementation/`: A subfolder where the implementation code and explanations are stored.
 
-### Example Structure
-
-
-## Guidelines
-1. Be respectful and constructive when contributing.
-2. Always give credit to the original authors of the papers and cite them properly in your PRs.
-3. Follow the provided templates to ensure consistency and clarity.
-
-### Example Structure
+### Example Structur
+`
 papers/
 │   
 └───paper1-title/
@@ -49,6 +42,14 @@ papers/
     │   summary.md
     └───implementation/
         └───script.py
+`
+
+
+## Guidelines
+1. Be respectful and constructive when contributing.
+2. Always give credit to the original authors of the papers and cite them properly in your PRs.
+3. Follow the provided templates to ensure consistency and clarity.
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
