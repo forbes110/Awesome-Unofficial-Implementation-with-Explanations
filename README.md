@@ -30,7 +30,7 @@ Each folder should contain:
 - `implementation/`: A subfolder where the implementation code and explanations are stored.
 
 ### Example Structur
-`
+```
 papers/
 │   
 └───paper1-title/
@@ -42,7 +42,7 @@ papers/
     │   summary.md
     └───implementation/
         └───script.py
-`
+```
 
 
 ## Guidelines
