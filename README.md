@@ -31,14 +31,14 @@ Each folder should contain:
 
 ### Example Structure
 ```
-papers/
+list/
 │   
-└───paper1-title/
+└───paper-title/
 │   │   summary.md
 │   └───implementation/
 │       └───code.py
 │   
-└───paper2-title/
+└───algorithm-title/
     │   summary.md
     └───implementation/
         └───script.py
