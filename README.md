@@ -26,20 +26,21 @@ This project aims to create a collaborative environment where users can upload d
 
 ### Contribution Format
 Each folder should contain:
-- `summary.md`: A brief description of the paper, what the challenge is, and the community's progress.
-- `implementation/`: A subfolder where the implementation code and explanations are stored.
+- `explanation.md`: The description the implementation.
+- `implementation/`: A subfolder where the implementation code and explanations are stored, or if there are url to the repo of the implementation, this can be skipped.
+  
 
 ### Example Structure
 ```
-papers/
+list/
 │   
-└───paper1-title/
-│   │   summary.md
+└───paper-title/
+│   │   explanation.md
 │   └───implementation/
 │       └───code.py
 │   
-└───paper2-title/
-    │   summary.md
+└───algorithm-title/
+    │   explanation.md
     └───implementation/
         └───script.py
 ```
