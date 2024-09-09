@@ -27,7 +27,8 @@ This project aims to create a collaborative environment where users can upload d
 ### Contribution Format
 Each folder should contain:
 - `explanation.md`: The description the implementation.
-- `implementation/`: A subfolder where the implementation code and explanations are stored.
+- `implementation/`: A subfolder where the implementation code and explanations are stored, or if there are url to the repo of the implementation, this can be skipped.
+  
 
 ### Example Structure
 ```
