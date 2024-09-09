@@ -4,7 +4,7 @@
 This project aims to create a collaborative environment where users can upload difficult-to-implement research papers that are not open-sourced. Researchers, developers, and enthusiasts can come together to discuss, clarify, and implement complex parts of these papers. The goal is to foster a knowledge-sharing community that bridges the gap between theory and practice.
 
 ## Project Purpose
-1. **Upload challenging papers**: Upload papers that are difficult to implement, describing unclear parts and required implementations in any format.
+1. **Upload challenging papers**: Upload papers or distinct algorithms, models that are difficult to implement, describing unclear parts and required implementations in any format.
 2. **Collaborative solving**: Other users with strong theoretical and implementation skills can respond and contribute publicly to the repository.
 3. **Knowledge sharing**: All solutions and implementations are publicly available for educational and research purposes.
 
