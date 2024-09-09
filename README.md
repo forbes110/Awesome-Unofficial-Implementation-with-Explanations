@@ -29,7 +29,7 @@ Each folder should contain:
 - `summary.md`: A brief description of the paper, what the challenge is, and the community's progress.
 - `implementation/`: A subfolder where the implementation code and explanations are stored.
 
-### Example Structur
+### Example Structure
 ```
 papers/
 │   
