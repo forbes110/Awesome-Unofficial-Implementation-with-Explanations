@@ -1,7 +1,7 @@
 # Awesome-Unofficial-Implementation-with-Explanations
 # Paper Implementation Challenge Hub
 
-This project aims to create a collaborative environment where users can upload difficult-to-implement research papers that are not open-sourced. Researchers, developers, and enthusiasts can come together to discuss, clarify, and implement complex parts of these papers. The goal is to foster a knowledge-sharing community that bridges the gap between theory and practice.
+This project aims to create a collaborative environment where users can upload difficult-to-implement research papers or distinct algorithms that are not open-sourced. Researchers, developers, and enthusiasts can come together to discuss, clarify, and implement complex parts of these papers. The goal is to foster a knowledge-sharing community that bridges the gap between theory and practice.
 
 ## Project Purpose
 1. **Upload challenging papers**: Upload papers or distinct algorithms, models that are difficult to implement, describing unclear parts and required implementations in any format.
